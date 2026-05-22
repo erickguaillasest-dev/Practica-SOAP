@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CEF50-A4D1-051F-4A56-20DAF310BAE2}|C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF|c:\\users\\user\\source\\repos\\serviciowebwcf\\serviciowebwcf\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CEF50-A4D1-051F-4A56-20DAF310BAE2}|C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF|solutionrelative:serviciowebwcf\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CEF50-A4D1-051F-4A56-20DAF310BAE2}|C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF|C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\serviciowebwcf\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CEF50-A4D1-051F-4A56-20DAF310BAE2}|C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF|solutionrelative:serviciowebwcf\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF\\App_Code\\IService.cs",
+              "RelativeDocumentMoniker": "ServicioWebWCF\\App_Code\\IService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF\\App_Code\\IService.cs",
+              "RelativeToolTip": "ServicioWebWCF\\App_Code\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:49:10.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF\\App_Code\\Service.cs",
+              "RelativeDocumentMoniker": "ServicioWebWCF\\App_Code\\Service.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ServicioWebWCF\\ServicioWebWCF\\App_Code\\Service.cs",
+              "RelativeToolTip": "ServicioWebWCF\\App_Code\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:47:52.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

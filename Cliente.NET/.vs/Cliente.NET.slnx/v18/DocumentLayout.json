@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|c:\\users\\user\\source\\repos\\cliente.net\\cliente.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|solutionrelative:cliente.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|c:\\users\\user\\source\\repos\\cliente.net\\cliente.net\\connected services\\serviciowebsoap\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|solutionrelative:cliente.net\\connected services\\serviciowebsoap\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|c:\\users\\user\\source\\repos\\cliente.net\\cliente.net\\connected services\\serviciowebsoap\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F14031-D1E9-0726-BDE7-C58F76BD90AF}|Cliente.NET\\Cliente.NET.csproj|solutionrelative:cliente.net\\connected services\\serviciowebsoap\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 158,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Connected Services\\ServicioWebSOAP\\Reference.cs",
+              "RelativeDocumentMoniker": "Cliente.NET\\Connected Services\\ServicioWebSOAP\\Reference.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Connected Services\\ServicioWebSOAP\\Reference.cs",
+              "RelativeToolTip": "Cliente.NET\\Connected Services\\ServicioWebSOAP\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:19:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente.NET\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Program.cs",
+              "RelativeToolTip": "Cliente.NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:16:42.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Connected Services\\ServicioWebSOAP\\ConnectedService.json",
+              "RelativeDocumentMoniker": "Cliente.NET\\Connected Services\\ServicioWebSOAP\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Connected Services\\ServicioWebSOAP\\ConnectedService.json",
+              "RelativeToolTip": "Cliente.NET\\Connected Services\\ServicioWebSOAP\\ConnectedService.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T17:04:14.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

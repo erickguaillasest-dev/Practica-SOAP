@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQWTPjsLsRI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Cliente.NET\\Cliente.NET\\Cliente.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.0\\microsoft.extensions.objectpool.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.protocols.wstrust\\6.8.0\\microsoft.identitymodel.protocols.wstrust.6.8.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\8.14.0\\microsoft.identitymodel.tokens.saml.8.14.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.xml\\8.14.0\\microsoft.identitymodel.xml.8.14.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.8\\system.security.cryptography.pkcs.10.0.8.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.xml\\10.0.8\\system.security.cryptography.xml.10.0.8.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.federation\\10.0.652802\\system.servicemodel.federation.10.0.652802.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.http\\10.0.652802\\system.servicemodel.http.10.0.652802.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.netframingbase\\10.0.652802\\system.servicemodel.netframingbase.10.0.652802.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.nettcp\\10.0.652802\\system.servicemodel.nettcp.10.0.652802.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.primitives\\10.0.652802\\system.servicemodel.primitives.10.0.652802.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.servicemodel.security\\6.0.0\\system.servicemodel.security.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
